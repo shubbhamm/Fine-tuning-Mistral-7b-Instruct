@@ -82,4 +82,3 @@ For improvements, suggestions, or contributions, feel free to open an issue or p
 ---
 
 **License**: MIT  
-**Author**: [Your Name or GitHub Handle]
